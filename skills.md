@@ -3,3 +3,12 @@
  - understanding how to make a controls system
  - how to create an electrical system
  - how to program a robot well
+ - how to iterate through robot designs
+ - practice with design reviews
+ - practice with scoping projects autonomously
+ - contextualized math for engineering design
+ - data logging
+ - scientific methods applied to engineering (prototyping?)
+ - allocating resources
+ - time management
+ - good team work skills
