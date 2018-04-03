@@ -7,5 +7,7 @@
 
 ## Need to Keep in Mind
 Autonomy --> students have choice in what they do (ie: pick project, pick problem sets, pick presentation style)
+
 Competency --> scaffolding that boosts confidence
+
 Relatedness --> relate subject matter to other classes + beyond this class, autonomy helps here
